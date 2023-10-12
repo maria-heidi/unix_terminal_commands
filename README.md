@@ -1,2 +1,4 @@
 # unix_terminal_commands
-Most used terminal commands
+pwd is command that shows you the current directory
+
+
